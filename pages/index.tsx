@@ -42,8 +42,6 @@ export default function Home() {
         <div className={styles.center}>
         <p className={inter.className}>
               Q1 - What do you want to learn or do more of at work?
-              <br></br> A: Problem solve and deep dive new things. I love a new problem, or puzzle to figure out. I'm always looking something new to learn, or product to test.
-      <br></br> It would be good to be able to spend some time to learn something from top to bottom, really understand how/why it works.  
             </p>
         </div>
 
