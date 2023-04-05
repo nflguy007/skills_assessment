@@ -40,23 +40,11 @@ export default function Home() {
         </div>
 
         <div className={styles.center}>
-          <Image
-            className={styles.logo}
-            src="/next.svg"
-            alt="Next.js Logo"
-            width={180}
-            height={37}
-            priority
-          />
-          <div className={styles.thirteen}>
-            <Image
-              src="/thirteen.svg"
-              alt="13"
-              width={40}
-              height={31}
-              priority
-            />
-          </div>
+        <p className={inter.className}>
+              Q1 - What do you want to learn or do more of at work?
+              <br></br> A: Problem solve and deep dive new things. I love a new problem, or puzzle to figure out. I'm always looking something new to learn, or product to test.
+      <br></br> It would be good to be able to spend some time to learn something from top to bottom, really understand how/why it works.  
+            </p>
         </div>
 
         <div className={styles.grid}>
