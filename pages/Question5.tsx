@@ -41,14 +41,22 @@ export default function Home() {
 
         <div className={styles.center}>
         <p className={inter.className}>
-                          Q4 - When would you choose to use Edge Functions, Serverless Functions, or Edge Middleware with Vercel?
-                          A: Once again I had to reaseach this.  It appears you would use the edge functions when doing quick computational commands
-                          or things that you need quick resoponse times from. Edge functions are limited by the processing power of the device. 
-                          They are fast, yet cost more and are not scalable.    
-                          Using Sererless Functions are for heavier lifts like deeper analysis, or a data driven workload. 
-                          Edge Middleware - used when you need to run code before a request is completed.  Authentication or bot protection
-                          are good examples of this. 
-        </p>
+                          Q5 - Here is my reply: 
+                          User Name - 
+                          Thank you for contacting Vercel Support.
+
+                          I understand that you're experiecing an issue while trying to compile a build.  You're recieving an error: 
+                          /vercel/path0/dist/routes-manifest.json couldn&#39;t be found.
+
+                          First I&#39;d like to verify the path you&#39;re executing the compile from, and also verify that the path and file  /vercel/path0/dist/routes-manifest.json
+                          do in fact exist.  If you could reply with the exact steps, including work active working path to replciate the error, and possibly
+                          as screen shot showing that the path, and file do exist.  Once we have verified this, I&#39;d like to shchedule a call and screen share with you 
+                          to do a deeper investigation into this issue.  
+
+                          Thank you, and please let me know if you have any other questions or concerns. 
+                          Brian White 
+
+          </p>                
         </div>
 
         <div className={styles.grid}>
