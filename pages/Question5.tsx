@@ -45,7 +45,7 @@ export default function Home() {
                           User Name - 
                           Thank you for contacting Vercel Support.
 
-                          I understand that you're experiecing an issue while trying to compile a build.  You're recieving an error: 
+                          I understand that you&#39;re experiecing an issue while trying to compile a build.  You&#39;re recieving an error: 
                           /vercel/path0/dist/routes-manifest.json couldn&#39;t be found.
 
                           First I&#39;d like to verify the path you&#39;re executing the compile from, and also verify that the path and file  /vercel/path0/dist/routes-manifest.json
